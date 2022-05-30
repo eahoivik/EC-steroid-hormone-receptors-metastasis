@@ -1,7 +1,7 @@
 ## EC-steroid-hormone-receptors-metastasis
 
 This is a tentative research project website on endometrial cancer and how steroid receptors might mediate metastasis.    
-Looking forward to develop this further as soon as funding is in place. We will keep the website updated, so your on track with the project.   
+Looking forward to develop this further as soon as funding is in place. We will keep the website updated, so you're on track with the project.   
 
 ### Project manager
 
